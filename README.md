@@ -1,4 +1,4 @@
-## <p align="center">Seja bem-vindo!👋 Eu me chamo Luis Otavio, sou um desenvolvedor iniciante que veio da área de design. Estou fascinado com front-end, mas, estou estudando com o objetivo de me tornar full-stack no futuro. Por isso, estou sempre em busca de novos conhecimentos e sempre atualizando o que já aprendi!.</p>&nbsp;
+## <p align="center">Seja bem-vindo!👋 Eu me chamo Luis Otavio, sou um desenvolvedor iniciante. Estou fascinado com front-end, mas, estou estudando com o objetivo de me tornar full-stack no futuro. Por isso, estou sempre em busca de novos conhecimentos e sempre atualizando o que já aprendi!.</p>&nbsp;
 
  &nbsp;
  &nbsp;
